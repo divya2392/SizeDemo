@@ -13,7 +13,6 @@
     <dimen name="text_size_medium_title">26sp</dimen>
 
     <!--height-->
-    <dimen name="text_email_box_height">45.714dp</dimen>
     <dimen name="button_width">145.714dp</dimen>
     <dimen name="button_height">65.786dp</dimen>
 
